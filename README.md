@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Vasconi</h1>
-<h3 align="center">An ex Chef, passionate FullStack developer from Pittsburgh, PA.</h3>
+<h3 align="center">An ex Chef, Now a passionate Full Stack Software and Web developer from Pittsburgh, PA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisvasconi&label=Profile%20views&color=0e75b6&style=flat" alt="chrisvasconi" /> </p>
 
