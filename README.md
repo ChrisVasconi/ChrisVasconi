@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisvasconi" alt="chrisvasconi" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently in the Job Market and lookign/actively applying. Excited to start this next chapter of my life and new Career.
 
-- 💬 Ask me about **MERN, Python or Cooking!**
+- 💬 Ask me about **Java, Javascript MERN(MongoDB-Express.js-ReAct.js-Node.js, Python or Cooking!**
 
 - 🎊 My interests ** I love coding, tech, gaming, reading, cooking, live music and camping
 
@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://chrisvasconi.com/" target="blank"></a>
 <a href="https://linkedin.com/in/linkedin.com/in/chris-vasconi-cmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chris-vasconi-cmv" height="30" width="40" /></a>
 </p>
 
