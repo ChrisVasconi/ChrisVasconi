@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently in the Job Market and lookign/actively applying. Excited to start this next chapter of my life and new Career.
 
-- 💬 Ask me about **Java, Javascript MERN(MongoDB-Express.js-ReAct.js-Node.js, Python or Cooking!**
+- 💬 Ask me about **Java, Javascript MERN(MongoDB-Express.js-ReAct.js-Node.js), Python or Cooking!**
 
 - 🎊 My interests ** I love coding, tech, gaming, reading, cooking, live music and camping
 
 -I have a dog, 🐶 Ms. Molly Roo and a cat, 🐱 Mr. Richard Roo
 
 
-- 📫 How to reach me **vasconichris@gmail.com | Chris_Vasconi#0146 (Discord) | <a href="https://chrisvasconi.com/" target="blank"></a>**
+- 📫 How to reach me **vasconichris@gmail.com | Chris_Vasconi#0146 (Discord) | <a href="https://chrisvasconi.com/" target="blank"></a> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
