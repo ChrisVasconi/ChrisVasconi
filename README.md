@@ -14,8 +14,7 @@
 -I have a dog, 🐶 Ms. Molly Roo and a cat, 🐱 Mr. Richard Roo
 
 
-- 📫 How to reach me **vasconichris@gmail.com | Chris_Vasconi#0146 (Discord) | <a href="https://chrisvasconi.com/" target="blank"></a> **
-
+- 📫 How to reach me **vasconichris@gmail.com | Chris_Vasconi#0146 (Discord) |<a href="https://chrisvasconi.com/"target="blank">Portfolio</a>**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/chris-vasconi-cmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chris-vasconi-cmv" height="30" width="40" /></a>
